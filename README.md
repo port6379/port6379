@@ -18,6 +18,11 @@
 <br/>  
 
 
+## My Badge
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="aecd4f8d-7c7d-423b-a0c0-b811ed223713" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -58,7 +63,7 @@
 </td></tr></table>  
 
 <br/>  
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="aecd4f8d-7c7d-423b-a0c0-b811ed223713" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 ## Connect with me  
 <div align="center">
