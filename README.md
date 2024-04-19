@@ -1,7 +1,8 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="aecd4f8d-7c7d-423b-a0c0-b811ed223713" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### <div align="center">I'm xiaocc, a  云原神developer 👨‍💻 working remotely since 公元前200年 🚀</div>  
   
@@ -73,8 +74,7 @@
 
 <br/>  
 
-
-## Github Stats  
+  
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=port6379&hide_border=true&layout=compact" align="center" /></div>  
 
