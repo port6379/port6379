@@ -75,9 +75,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=port6379&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=port6379&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
+
 
 
 ## Recent Blog Posts  
