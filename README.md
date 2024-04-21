@@ -1,7 +1,7 @@
 
 
 
-[MyBolg](www.quanyichao.com "quanyichao.com")
+[MyBlog](https://quanyichao.com "最好的markdown教程")
 
 ### <div align="center">I'm xiaocc, a  云原神developer 👨‍💻 working remotely since 公元前200年 🚀</div>  
   
